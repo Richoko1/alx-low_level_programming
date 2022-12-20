@@ -2,7 +2,6 @@
 #include "main.h"
 
 /**
-
 * swap_int - a function that swaps the values of 2 integers.
 * @a: first value to be provided
 * @b: Second value to be provided
